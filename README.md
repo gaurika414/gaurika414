@@ -151,7 +151,7 @@ gaurika = {
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/gaurikabimsara">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/gaurika-bimsara/">LinkedIn</a>
   |
   <a href="mailto:gaurikahettiarachchi885@gmail.com">Email</a>
   |
