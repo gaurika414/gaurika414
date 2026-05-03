@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:00D4FF,100:00FF88&text=Gaurika%20Bimsara&fontColor=FFFFFF&fontSize=46&fontAlignY=35&desc=AI%20%26%20Cybersecurity%20Focused%20Software%20Developer&descSize=18&descAlignY=56&animation=fadeIn" alt="Gaurika Bimsara animated profile banner" />
+  <img width="100%" src="assets/profile-header.svg" alt="Gaurika Bimsara profile banner" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=gaurika414&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://github.com/gaurika414?tab=followers">
-    <img src="https://img.shields.io/github/followers/gaurika414?label=Followers&style=for-the-badge&color=00ff88&labelColor=0d1117" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/gaurika414?label=Followers&style=for-the-badge&color=00ff88&labelColor=0d1117&cacheSeconds=3600" alt="GitHub followers" />
   </a>
   <a href="https://github.com/gaurika414?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity%20%7C%20Python-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Focus badge" />
@@ -86,7 +86,7 @@ gaurika = {
 
 <p align="center">
   <a href="https://github.com/gaurika414/Product-Scrape-By-Prime-Source-LK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurika414&repo=Product-Scrape-By-Prime-Source-LK&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00FF88" alt="Pinned repository card for Product-Scrape-By-Prime-Source-LK" />
+    <img width="90%" src="assets/product-scrape-card.svg" alt="Featured repository card for Product-Scrape-By-Prime-Source-LK" />
   </a>
 </p>
 
@@ -100,12 +100,13 @@ gaurika = {
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaurika414&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00FF88&rank_icon=github" alt="Gaurika's GitHub stats" />
+  <img width="49%" src="https://ghstats.dev/api/card?username=gaurika414&theme=tokyonight&hide_border=true&custom_title=Gaurika%27s%20GitHub%20Stats&cache=20260503" alt="Gaurika's GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=gaurika414&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00FF88&currStreakLabel=00D4FF" alt="Gaurika's GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurika414&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Most used languages" />
+  <img width="49%" src="https://ghstats.dev/api/langs?username=gaurika414&theme=tokyonight&hide_border=true&max_langs=8&layout=bar&cache=20260503" alt="Most used languages" />
+  <img width="49%" src="https://ghstats.dev/api/sparkline?username=gaurika414&theme=tokyonight&days=30&width=495&height=180&hide_border=true&title=Last%2030%20Days&cache=20260503" alt="GitHub contribution sparkline" />
 </p>
 
 <p align="center">
@@ -144,5 +145,5 @@ gaurika = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00FF88,50:00D4FF,100:0D1117" alt="Animated footer wave" />
+  <img width="100%" src="assets/footer-wave.svg" alt="Footer wave" />
 </p>
