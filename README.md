@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=LLM+Developer+in+Training;AI+Engineering+Undergraduate+at+NSBM;Degree+offered+by+University+of+Plymouth;Python+%7C+LLMs+%7C+Cybersecurity+%7C+Web+Development" alt="Animated typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=LLM+Developer+in+Training;AI+Engineering+Undergraduate+at+NSBM;Python+%7C+LLMs+%7C+Cybersecurity+%7C+Web+Development" alt="Animated typing headline" />
 </p>
 
 <p align="center">
