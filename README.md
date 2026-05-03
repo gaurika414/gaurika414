@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Developer;Python+%7C+Web+Development+%7C+Cybersecurity;Founder+of+a+2000%2B+Member+Cybersecurity+Community;Building+clean+tools+and+practical+software" alt="Animated typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=LLM+Developer+in+Training;AI+Engineering+Undergraduate+at+NSBM;Degree+offered+by+University+of+Plymouth;Python+%7C+LLMs+%7C+Cybersecurity+%7C+Web+Development" alt="Animated typing headline" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/gaurika414?label=Followers&style=for-the-badge&color=00ff88&labelColor=0d1117&cacheSeconds=3600" alt="GitHub followers" />
   </a>
   <a href="https://github.com/gaurika414?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity%20%7C%20Python-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Focus badge" />
+    <img src="https://img.shields.io/badge/Focus-LLM%20Development%20%7C%20AI%20Engineering%20%7C%20Python-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Focus badge" />
   </a>
 </p>
 
@@ -22,8 +22,8 @@
   <a href="https://linkedin.com/in/gaurikabimsara">
     <img src="https://img.shields.io/badge/LinkedIn-gaurikabimsara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gaurika885@icloud.com">
-    <img src="https://img.shields.io/badge/Email-gaurika885%40icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+  <a href="mailto:gaurikahettiarachchi885@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gaurikahettiarachchi885%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/gaurika414">
     <img src="https://img.shields.io/badge/GitHub-gaurika414-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -34,16 +34,17 @@
 
 ## About Me
 
-I am **Gaurika Bimsara**, an aspiring software developer from Sri Lanka focused on **Python, web development, cybersecurity, and software engineering fundamentals**.
+I am **Gaurika Bimsara**, an **LLM developer in training** and **AI Engineering undergraduate at NSBM**, following an AI degree offered by the **University of Plymouth**.
 
-I build practical projects, learn algorithms and debugging, explore Linux and security fundamentals, and manage a **2000+ member cybersecurity community** where I share resources and support technical discussions.
+I am self-learning **LLM application development, AI engineering, Python, cybersecurity, web development, and software engineering fundamentals**. I build practical projects, explore Linux and security basics, and manage a **2000+ member cybersecurity community** where I share resources and support technical discussions.
 
 ```python
 gaurika = {
-    "role": "Aspiring Software Developer",
+    "role": "LLM Developer in Training | AI Engineering Undergraduate",
     "location": "Sri Lanka",
-    "focus": ["Python", "Web Development", "Cybersecurity", "Software Engineering"],
-    "currently_learning": ["JavaScript", "SQL", "Linux CLI", "AI-powered tools"],
+    "education": "AI Degree at NSBM, offered by University of Plymouth",
+    "focus": ["LLM Development", "AI Engineering", "Python", "Cybersecurity", "Web Development"],
+    "currently_learning": ["LLM Apps", "Prompt Engineering", "RAG", "SQL", "Linux CLI"],
     "community": "Founder of a 2000+ member cybersecurity community",
     "languages": ["English: Proficient", "Tamil: Intermediate"]
 }
@@ -62,7 +63,18 @@ gaurika = {
   <img src="https://img.shields.io/badge/Linux-CLI%20Basics-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/SQL-Database%20Fundamentals-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/LLM%20Development-Self%20Learning-00D4FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Development" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-Undergraduate-00FF88?style=for-the-badge&logo=googlegemini&logoColor=black" alt="AI Engineering" />
 </p>
+
+## Education & Direction
+
+| Area | Details |
+| --- | --- |
+| Degree | AI Engineering undergraduate at NSBM |
+| Awarding university | University of Plymouth |
+| Self-learning path | LLM development, AI engineering, prompt engineering, RAG, Python, and software fundamentals |
+| Career direction | Building toward practical AI engineer and LLM application developer roles |
 
 ## What I Work On
 
@@ -71,7 +83,7 @@ gaurika = {
 | Software Development | Python scripts, algorithms, debugging practice, and problem-solving exercises |
 | Web Development | Responsive web pages using HTML5, CSS3, clean layout structure, and browser-friendly styling |
 | Cybersecurity | Digital safety awareness, networking basics, security learning resources, and community moderation |
-| AI Tools | Practical automation ideas and AI-assisted product analysis workflows |
+| LLM & AI Engineering | LLM apps, prompt workflows, RAG learning projects, and AI-assisted product analysis tools |
 | Documentation | Clear technical notes, project READMEs, and learning documentation |
 
 ## Core Strengths
@@ -81,6 +93,7 @@ gaurika = {
 - Self-learning and technical research
 - Technical documentation
 - Cybersecurity community management
+- LLM and AI engineering self-learning discipline
 
 ## Featured Work
 
@@ -96,6 +109,7 @@ gaurika = {
 | Cybersecurity Community Platform | Built and managed a Telegram tech community with 2000+ members | Cybersecurity, community leadership, moderation |
 | Web Development Practice | Created responsive web pages focused on structure, styling, and compatibility | HTML5, CSS3, UI structure |
 | Python Practice Projects | Implemented scripts and exercises using loops, functions, and logic | Python, algorithms, debugging |
+| LLM Learning Projects | Building toward prompt engineering, RAG, and AI application experiments | LLMs, Python, AI engineering |
 
 ## GitHub Analytics
 
@@ -129,17 +143,17 @@ gaurika = {
 
 ## Current Goals
 
-- Build stronger Python and JavaScript projects with clean documentation.
-- Publish more practical cybersecurity and web development learning projects.
+- Build LLM applications with Python, prompt engineering, and RAG fundamentals.
+- Grow as an AI Engineering undergraduate through strong public learning projects.
 - Improve SQL, Linux CLI, networking, and software engineering fundamentals.
-- Turn learning into public repositories that show real progress and consistency.
+- Publish practical cybersecurity, AI, and web development repositories with clear documentation.
 
 ## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/gaurikabimsara">LinkedIn</a>
   |
-  <a href="mailto:gaurika885@icloud.com">Email</a>
+  <a href="mailto:gaurikahettiarachchi885@gmail.com">Email</a>
   |
   <a href="https://github.com/gaurika414">GitHub</a>
 </p>
