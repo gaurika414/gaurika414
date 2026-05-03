@@ -1,0 +1,39 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gaurika Bimsara profile banner</title>
+  <desc id="desc">Dark futuristic GitHub profile banner for Gaurika Bimsara.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.45" stop-color="#071D2A"/>
+      <stop offset="1" stop-color="#022C22"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D4FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00D4FF"/>
+      <stop offset="1" stop-color="#00FF88" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+  <path d="M0 206C138 170 246 239 374 205C526 164 642 194 788 156C890 130 944 143 1000 121V260H0V206Z" fill="#00D4FF" fill-opacity="0.08"/>
+  <path d="M0 52H1000" stroke="url(#line)" stroke-width="2" opacity="0.85" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <g opacity="0.25">
+    <path d="M92 110H248M92 140H208M92 170H288" stroke="#00D4FF" stroke-width="2"/>
+    <path d="M760 92H908M720 122H908M784 152H908" stroke="#00FF88" stroke-width="2"/>
+  </g>
+  <text x="500" y="112" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">Gaurika Bimsara</text>
+  <text x="500" y="154" text-anchor="middle" fill="#00D4FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">AI &amp; Cybersecurity Focused Software Developer</text>
+  <text x="500" y="190" text-anchor="middle" fill="#C9D1D9" font-family="Consolas, Monaco, monospace" font-size="18">Python | Web Development | Linux | GitHub | Community Builder</text>
+  <circle cx="500" cy="220" r="5" fill="#00FF88">
+    <animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
